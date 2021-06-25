@@ -1,0 +1,28 @@
+h1 {
+  text-align: center;
+  color: rgb(63, 155, 209);
+  padding: 10px;
+}
+
+body {
+  text-align: center;
+  background-color: rgb(102, 231, 231);
+  font-family: "Courier New", Courier, monospace;
+  margin: 0%;
+  padding: 0%;
+}
+
+.value {
+  font-family: "Courier New", Courier, monospace;
+  background-color: rgb(176, 161, 231);
+  border-radius: 10px;
+  font-size: 50px;
+  padding: 10px;
+  color: black;
+}
+
+/* span {
+  background-color: cornflowerblue;
+  border-radius: 10px;
+  padding: 10px;
+} */
